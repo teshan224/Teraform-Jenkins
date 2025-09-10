@@ -1,0 +1,20 @@
+pipeline{
+    agent any
+    stages{
+        stage(init){
+            steps{
+
+            }
+        }
+        stage(plan){
+            steps{
+
+            }
+        }
+        stage(apply){
+            steps{
+                
+            }
+        }
+    }
+}
