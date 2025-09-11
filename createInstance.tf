@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIAVRUVTXIE42AYE7BM"
-  secret_key = "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"
+  access_key = "AKIAVRUVTXIERJFY4FIP"
+  secret_key = "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"
   region = "us-east-2"
 }
 
@@ -10,3 +10,4 @@ resource "aws_instance" "MyFirstInstance" {
   
 
 }
+
